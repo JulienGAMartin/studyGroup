@@ -27,3 +27,26 @@
   interests:
     - Evolutionary & Behavioural Ecology
     - Statistics
+
+
+- name: Deon Roos
+  affiliation: University of Aberdeen
+  github: Deon88
+  interests:
+    - Population Ecology
+    - Applied Ecology
+    
+- name: Sophie Shaw
+  affiliation: University of Aberdeen
+  github: SophieS9
+  interests:
+    - Bioinformatics 
+    - Next Generation Sequencing
+    
+- name: Cristian Navarro
+  affiliation: University of Aberdeen
+  github: CristianNa
+  interests:
+    - Community and trophic Ecology 
+    - Coding
+
